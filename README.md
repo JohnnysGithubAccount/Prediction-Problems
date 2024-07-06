@@ -1,3 +1,5 @@
+# Prediction Problems
+
 This project is for generalize the idea of how to deal with predicting problems.
 
 house_price_prediction use basic machine learning algorithms for predictiong median house price in a block in California, using the built-in dataset of sklearn, Fetching California Housing. This represent the problems where the data are independence continous variables.
